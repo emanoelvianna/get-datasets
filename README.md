@@ -1,5 +1,5 @@
 # links-to-get-datasets
 
-[EUA DataGov](https://catalog.data.gov)
-[Healthdata Gov](https://healthdata.gov/)
-[data.world](https://data.world/)
+1. [EUA DataGov](https://catalog.data.gov)
+2. [Healthdata Gov](https://healthdata.gov/)
+3. [data.world](https://data.world/)
